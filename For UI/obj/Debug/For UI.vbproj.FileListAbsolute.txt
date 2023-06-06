@@ -1,0 +1,90 @@
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For UI.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For_UI.Form1.resources
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For UI.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\For UI\For UI\bin\Debug\For UI.exe.config
+C:\Users\PC\source\repos\For UI\For UI\bin\Debug\For UI.exe
+C:\Users\PC\source\repos\For UI\For UI\bin\Debug\For UI.pdb
+C:\Users\PC\source\repos\For UI\For UI\bin\Debug\For UI.xml
+C:\Users\PC\source\repos\For UI\For UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For_UI.Resources.resources
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For UI.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For UI.vbproj.CopyComplete
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For UI.exe
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For UI.xml
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For UI.pdb
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For_UI.Dashboard.resources
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For_UI.Seats.resources
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For_UI.Transactions.resources
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For_UI.UpcomingConcerts.resources
+C:\Users\PC\source\repos\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\For UI\For UI\obj\Debug\For_UI.Settings.resources
+D:\C O D E\VB\For UI\For UI\bin\Debug\db.mdb
+D:\C O D E\VB\For UI\For UI\bin\Debug\For UI.exe.config
+D:\C O D E\VB\For UI\For UI\bin\Debug\For UI.exe
+D:\C O D E\VB\For UI\For UI\bin\Debug\For UI.pdb
+D:\C O D E\VB\For UI\For UI\bin\Debug\For UI.xml
+D:\C O D E\VB\For UI\For UI\bin\Debug\FontAwesome.Sharp.dll
+D:\C O D E\VB\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C O D E\VB\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C O D E\VB\For UI\For UI\obj\Debug\For UI.vbprojAssemblyReference.cache
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.Form1.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.Receipt.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.Settings.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.Dashboard.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.Seats.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.Transactions.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.UpcomingConcerts.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For_UI.Resources.resources
+D:\C O D E\VB\For UI\For UI\obj\Debug\For UI.vbproj.GenerateResource.cache
+D:\C O D E\VB\For UI\For UI\obj\Debug\For UI.vbproj.CoreCompileInputs.cache
+D:\C O D E\VB\For UI\For UI\obj\Debug\For UI.vbproj.CopyComplete
+D:\C O D E\VB\For UI\For UI\obj\Debug\For UI.exe
+D:\C O D E\VB\For UI\For UI\obj\Debug\For UI.xml
+D:\C O D E\VB\For UI\For UI\obj\Debug\For UI.pdb
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\db.mdb
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\For UI.exe.config
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\For UI.exe
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\For UI.pdb
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\For UI.xml
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For UI.vbprojAssemblyReference.cache
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.Form1.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.Receipt.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.Settings.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.Dashboard.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.Seats.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.Transactions.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.UpcomingConcerts.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For_UI.Resources.resources
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For UI.vbproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For UI.vbproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For UI.vbproj.CopyComplete
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For UI.exe
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For UI.xml
+C:\Users\PC\OneDrive - Escuela de Sophia of Caloocan, Inc\Desktop\Ruce Files\Vb.net Projects\FOR UI\For UI\For UI\obj\Debug\For UI.pdb
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\db.mdb
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\For UI.exe.config
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\For UI.exe
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\For UI.pdb
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\For UI.xml
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For UI.vbprojAssemblyReference.cache
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.Form1.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.Receipt.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.Settings.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.Dashboard.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.Seats.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.Transactions.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.UpcomingConcerts.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For_UI.Resources.resources
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For UI.vbproj.GenerateResource.cache
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For UI.vbproj.CoreCompileInputs.cache
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For UI.vbproj.CopyComplete
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For UI.exe
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For UI.xml
+C:\Users\hargus\Downloads\For UI (2)\For UI\For UI\obj\Debug\For UI.pdb
